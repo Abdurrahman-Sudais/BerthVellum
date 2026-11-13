@@ -5,8 +5,8 @@ const site = {
   slug: 'berthvellum',
   tagline: 'Turn shipping updates into actionable timelines.',
   about: 'BerthVellum helps freight forwarders turn scattered shipment emails and documents into one operational timeline. AI extracts milestones, reconciles conflicting updates and flags shipments that need attention — for operations staff to verify.',
-  url: 'https://berthvellum.com',
-  email: 'chukwudi@berthvellum.com',
+  url: 'https://berthvellum.site',
+  email: 'chukwudi@berthvellum.site',
   team: [
     {name: 'Chukwudi Okeke', role: 'Founder/CEO', initials: 'CO', bio: 'Chukwudi has run forwarding desks where a single missed email meant demurrage, and started BerthVellum so every shipment has one timeline the whole team can trust. He leads product and forwarder partnerships.'},
     {name: 'Yetunde Balogun', role: 'Co-founder', initials: 'YB', bio: 'Yetunde leads the platform: extracting milestones from correspondence and documents, reconciling conflicting updates, and the exception queue operations teams work from.'},
