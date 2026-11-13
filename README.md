@@ -4,7 +4,7 @@
 
 BerthVellum helps independent freight forwarders, shipping agents and import operations teams turn scattered shipment emails and documents into one operational timeline. AI extracts milestones, reconciles conflicting updates and flags shipments that need attention, and operations staff verify every extracted event.
 
-> BerthVellum is a proposed product. Pricing is illustrative and the prototype uses fictional data. Founded by **Chukwudi Okeke** with co-founder **Yetunde Balogun**. The domain `berthvellum.site` and the email `chukwudi@berthvellum.site` are placeholders; confirm them before launch. Organisation types named on the site are prospective customers with no implied affiliation.
+> BerthVellum is a proposed product. Pricing is illustrative and the prototype uses fictional data. Founded by **Chukwudi Okeke** with co-founder **Yetunde Balogun**. Website: `berthvellum.site` · contact: `chukwudi@berthvellum.site`. Organisation types named on the site are prospective customers with no implied affiliation.
 
 ## Design
 

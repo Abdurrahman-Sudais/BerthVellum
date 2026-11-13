@@ -1,5 +1,5 @@
 // BerthVellum — site facts used by the pages, the prerender step and the tests.
-// A proposed product: pricing is illustrative; the domain, email and LinkedIn page are placeholders to confirm.
+// A proposed product: pricing is illustrative; the LinkedIn page is not yet linked.
 const site = {
   name: 'BerthVellum',
   slug: 'berthvellum',
